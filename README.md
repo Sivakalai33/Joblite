@@ -44,7 +44,7 @@ REST APIs
 MySQL
 
 ## Project Structure
-
+```
 Frontend Structure
 frontend/
 │
@@ -64,9 +64,10 @@ frontend/
 │   └── main.jsx
 │
 └── package.json
-
+```
 
 ## Backend Structure 
+```
 backend/
 │
 ├── routes/
@@ -86,7 +87,7 @@ backend/
 ├── config.py                 # Configuration (DB credentials, secret key)
 ├── run.py                    # Entry point (start Flask server)
 └── requirements.txt          # Python dependencies
-
+```
 ---
 
 ## Application Flow (Important)
